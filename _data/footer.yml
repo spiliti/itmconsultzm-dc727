@@ -3,3 +3,6 @@ links:
   - text: Consult ZM
     url: 'https://startbootstrap.com/themes/creative/'
     new_window: true
+  - text: lorem-ipsum
+    url: lorem-ipsum
+    new_window: false

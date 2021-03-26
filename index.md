@@ -22,6 +22,15 @@ sections:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
+  - type: lorem-ipsum
+    section_id: lorem-ipsum
+    background_style: lorem-ipsum
+    title: lorem-ipsum
+    text: lorem-ipsum
+    actions: []
+    services: []
+    projects: []
+    members: []
   - type: services.html
     section_id: services
     title: At Your Service

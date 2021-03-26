@@ -2,9 +2,10 @@
 layout: home
 header:
   title: ITM Consult Zambia
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  text: >-
+    What we do Start Bootstrap can help you build better websites using the
+    Bootstrap framework! Just download a theme and start customizing, no strings
+    attached!
   action:
     label: Find Out More
     url: '#about'
